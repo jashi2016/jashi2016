@@ -1,6 +1,7 @@
+![](https://github.com/jashi2016/jashi2016/blob/main/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966.gif)
 <h1 align="center">Hi 👋, I'm Jaya Kiran Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jashi2016&label=Profile%20views&color=0e75b6&style=flat" alt="jashi2016" /> </p>
 
 - 🔭 I’m currently working on **Expense Tracker**
